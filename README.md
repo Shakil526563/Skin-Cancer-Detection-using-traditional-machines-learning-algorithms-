@@ -15,4 +15,5 @@ Traditional Machine Learning Classification:
 After extracting features, you employ traditional machine learning algorithms for classification. These algorithms could include, but are not limited to, Support Vector Machines (SVM), Random Forest, or k-Nearest Neighbors (k-NN). The integrated features serve as input to these classifiers, which then learn to distinguish between different skin cancer classes.
 
 Note:DeepCNN and Preprocessing code are hidden for some condition.
+
 Datasetlink:https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
